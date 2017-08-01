@@ -725,7 +725,7 @@
             this.buttonClearData.Name = "buttonClearData";
             this.buttonClearData.Size = new System.Drawing.Size(153, 23);
             this.buttonClearData.TabIndex = 36;
-            this.buttonClearData.Text = "Clear Recieved Data";
+            this.buttonClearData.Text = "Clear Received Data";
             this.buttonClearData.UseVisualStyleBackColor = false;
             this.buttonClearData.Click += new System.EventHandler(this.buttonClearData_Click);
             // 

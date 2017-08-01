@@ -36,6 +36,5 @@ namespace FireFlow_Oven {
             foreach (string str in comLib.GetPortNames())
                 ConnectionsListBox.Items.Add(str);
         }
-
     }
 }
